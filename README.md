@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/Influx-index-file-counter).
+
 # Index file counter
 
 Copyright (c) 2017 Genome Research Ltd.
